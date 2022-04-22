@@ -21,7 +21,7 @@ Predict if a patient will survive for at least one year following a heart attack
 12. **group**: meaningless, ignore it.
 13. **alive-at-1**: Boolean-valued. Derived from the first two attributes. 0 means patient was either dead after 1 year or had been followed for less than 1 year. 1 means patient was alive at 1 year.
 
-## Before to start
+## Before we start
 Run the file PreparingDataSet.ipynb in Goggle Colab to remove null and unnecessary values from the data set.
 
 
