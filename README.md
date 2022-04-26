@@ -23,7 +23,9 @@ Predict if a patient will survive for at least one year following a heart attack
 
 ## Before we start
 Run the file PreparingDataSet.ipynb in Goggle Colab to remove null and unnecessary values from the data set.
+### How to run
 
+Run echocardiogramModels.ipynb in Googgle Colab
 
 ## References
 
